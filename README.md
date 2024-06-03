@@ -1,2 +1,2 @@
 # include code.h
-int main (Hello World)
+int main (Hello World
